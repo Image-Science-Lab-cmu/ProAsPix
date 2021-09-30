@@ -2,7 +2,7 @@
 
 The code and data corresponding to the "Programmable Spectral Filter Arrays for Hyperspectral Imaging"
 
-Link to paper: (arxiv link TBA)
+Link to paper: <a href=https://arxiv.org/abs/2109.14450>(arxiv)</a>
 
 # Data
 The contents of "data" folder needs to be downloaded at <a href=https://cmu.box.com/s/nhhr54dv5is4p65as7rf4uj9shlhbgdg> this link</a>. 
