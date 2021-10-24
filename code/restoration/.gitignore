@@ -1,0 +1,13 @@
+__pycache__
+.virtual_documents/
+.vscode
+*.mat
+*.pth
+data/
+notebooks/.ipynb_checkpoints/
+rawdata/
+resources/
+runs/
+saved_images/
+saved_models/
+saved_outputs/
