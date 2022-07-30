@@ -5,7 +5,7 @@ The code and data corresponding to the "Programmable Spectral Filter Arrays for 
 Link to paper: <a href=https://arxiv.org/abs/2109.14450>(arxiv)</a>
 
 # Data
-The contents of "data" folder needs to be downloaded at <a href=https://cmu.box.com/s/nhhr54dv5is4p65as7rf4uj9shlhbgdg> this link</a>. 
+The contents of "data" folder needs to be downloaded at <a href=https://drive.google.com/drive/folders/1CQyYME0dFOSSgUI3qmT1-MwYgmRAd-Zv?usp=sharing> this link</a>. 
 
 # Code
 The entry code is in code/reconstruction/Rank1_reconstruction_code.m 
